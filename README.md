@@ -1,3 +1,9 @@
+# Copy Main folder
+
+- First > Click > Main Folder Link.txt
+- Second > Copy URL and open in browser > Download Main RAR.
+- Third > after download Main folder > all copy in the Main folder > go to your path > after Paste.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -60,9 +66,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-# Copy Main folder
-
-- First > Click > Main Folder Link.txt
-- Second > Copy URL and open in browser > Download Main.
-- Third > after download Main folder > all copy in the Main folder > go to your path > after Paste.
